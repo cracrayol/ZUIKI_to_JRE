@@ -2,7 +2,7 @@
 
 ## About the software
 
-This is a support software to play JR EAST Train Simulator with ZUIKI's one-handle controller (ZKNS-001) for Switch.
+This is a support software to play JR EAST Train Simulator with ZUIKI's one-handle controller for Switch.
 
 Based on ZUIKI_to_JRE(2024.3.26) by 客电直幺拐二, decompiled using dotPeek, translated and updated to allows changing the mapping of the buttons.
 
