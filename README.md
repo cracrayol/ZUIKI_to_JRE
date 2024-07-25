@@ -1,3 +1,5 @@
+**Note** : This program is "deprecated" as JRETS now support Zuiki MasCon natively.
+
 # ZUIKI_to_JRE
 
 ## About the software
